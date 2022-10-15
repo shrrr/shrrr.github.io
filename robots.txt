@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shrrr.github.io/sitemap.xml
