@@ -6,15 +6,17 @@
     <description>Recent content on HrSun&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 15 Oct 2022 16:17:12 +0800</lastBuildDate><atom:link href="https://shrrr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2022 14:34:56 +0800</lastBuildDate><atom:link href="https://shrrr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Blog</title>
-      <link>https://shrrr.github.io/posts/first-blog/</link>
-      <pubDate>Sat, 15 Oct 2022 16:17:12 +0800</pubDate>
+      <title>第一篇文章留念</title>
+      <link>https://shrrr.github.io/posts/2022-10-16-1stblog/</link>
+      <pubDate>Sun, 16 Oct 2022 14:34:56 +0800</pubDate>
       
-      <guid>https://shrrr.github.io/posts/first-blog/</guid>
-      <description>this is a blog Welcome to my blog It&amp;rsquo;s just a test </description>
+      <guid>https://shrrr.github.io/posts/2022-10-16-1stblog/</guid>
+      <description>简单记录一下 主页建成的第一次发文，还是蛮有成就感的，原来做起来还是很简单的嘛！ 总感觉自己有很多事情要做，但是还是要一步一步来。。。 以后就每天</description>
     </item>
+    
+    
     
   </channel>
 </rss>

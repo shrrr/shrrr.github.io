@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shrrr.github.io/posts/first-blog/</loc>
-    <lastmod>2022-10-15T16:17:12+08:00</lastmod>
+    <loc>https://shrrr.github.io/posts/</loc>
+    <lastmod>2022-10-16T14:34:56+08:00</lastmod>
   </url><url>
     <loc>https://shrrr.github.io/</loc>
-    <lastmod>2022-10-15T16:17:12+08:00</lastmod>
+    <lastmod>2022-10-16T14:34:56+08:00</lastmod>
   </url><url>
-    <loc>https://shrrr.github.io/posts/</loc>
-    <lastmod>2022-10-15T16:17:12+08:00</lastmod>
-  </url><url>
-    <loc>https://shrrr.github.io/categories/</loc>
-  </url><url>
-    <loc>https://shrrr.github.io/series/</loc>
+    <loc>https://shrrr.github.io/tags/others/</loc>
+    <lastmod>2022-10-16T14:34:56+08:00</lastmod>
   </url><url>
     <loc>https://shrrr.github.io/tags/</loc>
+    <lastmod>2022-10-16T14:34:56+08:00</lastmod>
+  </url><url>
+    <loc>https://shrrr.github.io/posts/2022-10-16-1stblog/</loc>
+    <lastmod>2022-10-16T14:34:56+08:00</lastmod>
+  </url><url>
+    <loc>https://shrrr.github.io/archive/</loc>
+  </url><url>
+    <loc>https://shrrr.github.io/search/</loc>
+  </url><url>
+    <loc>https://shrrr.github.io/series/</loc>
   </url>
 </urlset>
